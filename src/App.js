@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.less';
+import './App.styl';
 
 const App = () => {
   return (
